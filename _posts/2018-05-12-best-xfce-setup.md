@@ -12,7 +12,7 @@ On the past, I got *into* XFCE because I love the "defaults". I love the white-n
 
 ![image](https://spins.fedoraproject.org/static/images/screenshots/screenshot-xfce.jpg "Default XFCE Looks")
 
-I've been changing my XFCE looks several times and I never *satisfied* with anything. But recently my last setup gave me the "defaults" vibe and I **will** make this setup my "defaults" setup from now.
+I've changed my XFCE looks several times and I never *satisfied* with anything. But recently my last setup gave me the "defaults" vibe and I **will** make this setup my "defaults" setup from now.
 
 ![image](/img/xfce-simple/simple-clean.png "Clean")
 ![image](/img/xfce-simple/simple-browser.png "Browser")
@@ -31,7 +31,9 @@ You might think that this current setup is boring or whatnot, but I **strive** t
 * **Icons:** Ultra-Flat
 * **Font:** Fira Mono
 
-And in this post I will list every "tweaks" that I add to my XFCE desktop.
+I am not saying that I will not make more *ricing* post but this is my *blank state* rice. I hope you find this post helpful, see you on the next post :)
+
+**Update (2019-01-09):** And in this post I will list every "tweaks" that I add to my XFCE desktop.
 
 * Add `compton` using [this tutorial.](http://duncanlock.net/blog/2013/06/07/how-to-switch-to-compton-for-beautiful-tear-free-compositing-in-xfce/), but I use `sudo add-apt-repository ppa:kelleyk/compton` instead of `sudo add-apt-repository ppa:richardgv/compton`.
 * Change default menu to `Whisker Menu`
@@ -67,4 +69,55 @@ And in this post I will list every "tweaks" that I add to my XFCE desktop.
 * `Workspace 4` by `super+4`
 * Change `Key used to grab and move windows` from `Alt` to `Super` in `Window Manager Settings > Accessibility`
 
-I am not saying that I will not make more *ricing* post but this is my *blank state* rice. I hope you find this post helpful, see you on the next post :)
+```
+-pidgin
+-sgt-puzzles
+-thunderbird
++adapta-gtk-theme (ppa)
++apache2 mysql-server php7.1 libapache2-mod-php7.1 php7.1-common php7.1-mbstring php7.1-xmlrpc php7.1-gd php7.1-xml php7.1-mysql php7.1-cli php7.1-mcrypt php7.1-zip php7.1-curl(ppa)
++arc-theme (ppa)
++audacious
++audacity (ppa)
++blender (ppa)
++cheese
++chromium-browser
++codeblocks
++compton (ppa)
++curl
++exfat-fuse exfat-utils
++feh
++fp-compiler fp-ide
++git
++hexchat
++htop
++inkscape (ppa)
++intellij (manual)
++java-jdk-11 (manual)
++jupyter-notebook
++libreoffice-impress
++mediainfo
++mplayer
++mpv (ppa)
++obs-studio (ppa)
++papirus-icon-theme (ppa)
++persepolis (ppa)
++plank (ppa)
++playonlinux
++ranger
++redshift
++screenfetch
++steam
++stow
++synaptic
++tlp (ppa)
++tmux
++ubuntu-restricted-extras
++vim
++virtualbox
++vlc
++winetricks (manual)
++youtube-dl (pip3)
++zsh
+```
+
+Again, see you on the next post :)
