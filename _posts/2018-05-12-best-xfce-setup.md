@@ -89,6 +89,7 @@ I am not saying that I will not make more *ricing* post but this is my *blank st
 +fp-compiler fp-ide
 +git
 +hexchat
++hplip-3.19.1 (manual)
 +htop
 +inkscape (ppa)
 +intellij (manual)
