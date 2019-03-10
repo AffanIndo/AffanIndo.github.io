@@ -31,8 +31,8 @@ SKSE is a mod that makes other mod can do amazing stuff because default Skyrim i
 * **Apocalypse** - Add several new spells. Also, get the **Apoalypse - Ordinator Compatibility Patch**.
 * **Wildcat** - Add several improvements to battle. Also, increase character and enemy damage so battle didn't last longer.
 * **Andromeda** - Standing Stones overhaul.
-* **Auto Unequip Ammo** - Self-Explanatory.
-* **Auto Unequip Helmet** - Self-Explanatory.
+* **Auto Unequip Ammo** - Self-explanatory.
+* **Auto Unequip Helmet** - Self-explanatory.
 * **Immersive HUD** - Hide the HUD when you don't need it.
 * **Run for Your Lives** - Civilian hide in their house when there is a dragon/vampire attack.
 * **Rich Merchants** - Make merchant has 10K gold. I hate refreshing their inventory if I have a lot of stuff to sell. It makes the speech perk that let you increase merchant's gold useless, though.
@@ -57,15 +57,25 @@ Since I have potato PC, I Follow [this Youtube guide](https://www.youtube.com/wa
 * **Better Vampire Lord Transformation** - I use this mod when I play as a vampire.
 * **Purity** - Kind of ENB for low PC. This mod not only alter the lightning, also the water and night texture too. Nice mod without big hit in performance.
 * **Summermyst** - Add tons of enchantments.
-* **Paper World Map** - I prefer this kind of map than Skyrim's Google Earth map.
+* **Paper World Map** - I prefer this kind of map than Skyrim's Google Earth map. Put it at the very bottom of the load order.
 * **Enhanced Camera** - My choice for first person camera. I heard this mod is the best one, so I use this. Haven't really tried the other, though.
 * **Cutthroat Merchant** - Make merchants sells expensive and buy cheap. Preventing you from going rich. I feel comfortable using *Hard* and *Medium*. *Easy* isn't impactful enough even though. Just enable one of the esp of your pick.
 * **Scarcity** - Make chests contain less loot. Put the **Scarcity - Less Loot Mod** in load order before the multiplier.
 * **Harvest Overhaul** - I like it when I harvest some Deathbells, the game give me 3 Deathbells instead of 1, so I don't spend hours of grinding to get it. For me this is essential for alchemist character.
+* **Glowing Ore Veins 300** - Make mining spot glowing. The default one is too dim and hard to spot.
+* **3x More Ore with 1 Third of the Swings** - I think this is the name of the file, not the mod. Just search "ore" or something. I hate smithing, though. This makes it less painful because less grinding, yeay!
 * **Increased Bounty Rewards** - Makes radiant quest more rewarding. I pick the **Lite** Version.
 * **Faster Skill Leveling** - Self-explanatory. You need to manually add the perk for this mod to active and remove the perk if you want to change the exp gain..
-* **Fuz Ro D'oh** - Use this if you use a mod that has silent voice (a dialogue with subtitle but has no voice)
-* **3x More Ore with 1 Third of the Swings** - I think this is the name of the file, not the mod. Just search "ore" or something. I hate smithing, though. This makes it less painful because less grinding, yeay!
+* **Skill Config** - Cheating mod. You can set your skill level in here. But it's nice if you want to roleplay certain character without too much grinding.
+* **Fuz Ro D'oh** - Use this if you use a mod that has silent voice (a dialogue with subtitle but has no voice).
+* **Immersive Weapons** - Seamlessly add tons of weapon to Skyrim.
+* **Guard Dialogue Overhaul** - Alters the Guard Dialogue.
+* **Immersive World Encounters** - Add new events and world encounters.
+* **Better MessageBox Controls** - Self-explanatory.
+* **Not So Fast - Main Quest** - Add delay between Main Quest Events.
+* **The Paarthurnax Dillema** - Now you don't need to kill Paarthurnax if you want to side with The Blades.
+* **Barenziah Quest Markers** - Self-explanatory.
+
 
 ### Beautiful Character
 
