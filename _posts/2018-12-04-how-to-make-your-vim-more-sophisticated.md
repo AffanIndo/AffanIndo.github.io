@@ -14,7 +14,7 @@ It looks pretty good already, to be honest. But I think there is more room to im
 * Plugin Manager
 * Color Scheme
 * Code Folding
-* ???????
+* Statusline & Buffer Tab
 * ???????????
 * IDE <!-- https://dev.to/bezirganyan/who-said-that-vim-cannot-compete-with-ides-51k4 -->
     * Code Completion
@@ -113,13 +113,50 @@ Because of this, the decoration now is slightly longer, and we must chane that l
 
 ![image](/img/how-to-make-your-vim-more-sophisticated/code-folding-use.png "Code Folding")
 
+## Statusline & Buffer Tab
+
+I combine these 2 sections because I use 1 plugin that does both of these. I use [Airline](https://github.com/vim-airline/vim-airline). The idea of using Airline sounds bad to some people, myself on the past included. But hear me out. As a minimalist person, I've tried [Lightline](https://github.com/itchyny/lightline.vim) and writing my own statusline, but finally I think Airline solves my problem.
+
+To be honest, I don't need fancy statusline, Lightline is enough, even writing your own statusline is pretty simple. But I want Airline's Buffer Tab, so I hit 2 birds with 1 stone, eh? When I tried Lightline, the statusline looks great. However, the statusline on NERDTree (Yes, I use NERDTree) looks horrible and there is nothing they could do about it, I don't know about the status of this "issue" today, but you might try it out. As for writing my own statusline, it creates a horrible bug that I couldn't stand. I made a Reddit thread of it [here](https://www.reddit.com/r/vim/comments/9xxq27/glitches_when_typing_in_insert_mode/). Man, that bug is so horrible that I spent months trying to fix it, it gave me Vietnam flashback thinking about it. Here's how it looks on mine:
+
+![image](/img/how-to-make-your-vim-more-sophisticated/airline-normal.png "Airline")
+
+It looks pretty bland because that's the way I like it. I don't want my statusline too fancy because it'd distracts me for sure haha. This is how Airline looks like if you want it to be fancy:
+
+![image](/img/how-to-make-your-vim-more-sophisticated/airline-fancy.png "Airline")
+
+Airline actually is a light statusline. However, its plugin and integration with other plugin makes it kinda heavy. It could integrate itself with CtrlP, NERDTree, and dozens of other plugin you use, but I just disable 'em all because I only need Airline's Tabline. Here's how my Airline setup looks like on my .vimrc:
+
+```
+" Airline
+let g:airline_theme='solarized'
+let g:airline_extensions = ['tabline']
+let g:airline#extensions#tabline#enabled = 1
+let g:airline#extensions#tabline#left_sep = ' '
+let g:airline#extensions#tabline#left_alt_sep = '| '
+let g:airline#extensions#tabline#buffer_min_count =2 " Show tabline if there are more than 1 buffer opened
+let g:airline#extensions#tabline#formatter = 'unique_tail' " Show file name only in tabline
+```
+
+There are tons of Airline theme, but you must use different repository. I use vim-plug to manage it so here's the relevant section on my .vimrc:
+
+```
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+```
+
+There you go! Fancy Statusline and Buffer Tab with Airline.
+
 ## References
-* https://github.com/mhinz/vim-galore/blob/master/static/minimal-vimrc.vim
-* https://github.com/AffanIndo/dotfiles/blob/master/vim/.vimrc
-* https://github.com/tpope/vim-pathogen
-* https://github.com/junegunn/vim-plug
-* https://github.com/VundleVim/Vundle.vim
-* https://jordaneldredge.com/blog/why-i-switched-from-vundle-to-plug/
+
 * https://ethanschoonover.com/solarized/
 * https://gist.github.com/sjl/3360978
+* https://github.com/AffanIndo/dotfiles/blob/master/vim/.vimrc
+* https://github.com/VundleVim/Vundle.vim
+* https://github.com/junegunn/vim-plug
+* https://github.com/mhinz/vim-galore/blob/master/static/minimal-vimrc.vim
+* https://github.com/tpope/vim-pathogen
+* https://github.com/vim-airline/vim-airline
+* https://jordaneldredge.com/blog/why-i-switched-from-vundle-to-plug/
+* https://www.reddit.com/r/vim/comments/9xxq27/glitches_when_typing_in_insert_mode/
 
