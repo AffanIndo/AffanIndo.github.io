@@ -101,6 +101,7 @@ I am not saying that I will not make more *ricing* post but this is my *blank st
 +mpv (ppa)
 +obs-studio (ppa)
 +papirus-icon-theme (ppa)
++pcsx2 (ppa)
 +persepolis (ppa)
 +plank (ppa)
 +playonlinux

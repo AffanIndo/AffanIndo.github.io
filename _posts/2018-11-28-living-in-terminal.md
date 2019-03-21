@@ -51,11 +51,11 @@ On this tutorial I will assume you got basic terminal command covered. Here are 
 * Git
 * Htop
 * Mplayer
-* Tldr
 * Tmux
 * Vim
 * Wget
 * Youtube-dl
+* Tldr
 
 
 ## Zsh
@@ -157,12 +157,6 @@ I love playing video in Mplayer, there are many settings to choose from, for exa
 
 And that's it for Mplayer! a simple player :) Check out my dotfiles for Mplayer, you need several tweaks to make Anime video working. Nowadays I use MPV since sometimes Mplayer couldn't display Anime subtile. The commands are the same so you could migrate to MPV easily if you want.
 
-## Tldr
-
-![image](/img/living-in-terminal/2-tldr.png "Tldr")
-
-Tldr is a nice cheatsheet on your terminal. You forgot how to use unrar? Just type `tldr unrar` and Tldr will show you the common commands for unrar. You can consult man pages to get the best result, but commands listed in man is sorted based on alphabet, not frequency. Tldr will show you the most frequently used command so you *might* immediately get what you wanted. For beginner this is a really nice training wheels, I really like it. However, maybe several programs doesn't included in Tldr so you have to scavenge for tutorials out there. Maybe in the future, the developer add more application cheatsheets into Tldr.
-
 ## Tmux
 
 ![image](/img/living-in-terminal/2-tmux.png "Tmux")
@@ -221,6 +215,12 @@ My tool of choice to download a Youtube video. It has so many features, like dow
 * `$ youtube-dl LINKHERE -f NUMBERHERE` - Download the selected quality.
 
 The NUMBERHERE represents the number on the left of available quality when you use `-F` option. Some common numbers are `18` (480p MP4) and `22` (720p MP4). I put the option command at the end of the script so you can just press up arrow then edit just the last tidbit part of the command.
+
+## Tldr
+
+![image](/img/living-in-terminal/2-tldr.png "Tldr")
+
+Tldr is a nice cheatsheet on your terminal. You forgot how to use unrar? Just type `tldr unrar` and Tldr will show you the common commands for unrar. You can consult man pages to get the best result, but commands listed in man is sorted based on alphabet, not frequency. Tldr will show you the commonly used command so you *might* immediately get what you wanted. For beginner this is a really nice training wheels, I really like it. However, maybe several programs doesn't included in Tldr so you have to scavenge for tutorials out there. Maybe in the future, the developer add more application cheatsheets into Tldr.
 
 ## Conclusion
 
