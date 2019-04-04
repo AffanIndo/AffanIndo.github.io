@@ -95,6 +95,12 @@ Since I have potato PC, I Follow [this Youtube guide](https://www.youtube.com/wa
 * **VHH** - Walking animation.
 * **Pretty Female Idles** - Self explanatory. Also, it doesn't need FNIS.
 
+### Mod List Screenshot
+
+![image](/img/skyrim-2019-1.png "Mod List Screenshot")
+![image](/img/skyrim-2019-2.png "Mod List Screenshot")
+![image](/img/skyrim-2019-3.png "Mod List Screenshot")
+
 ### My Characters
 
 ![image](/img/skyrim-elynn.png "Elynn")
