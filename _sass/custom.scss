@@ -5,6 +5,12 @@
 body {
   font-family: 'PT Serif', serif;
   p, ul, ol {
-    font-size   : 1.25em !important;
+    font-size: 1.25em;
+  }
+}
+
+@media (max-width: 940px) { //Breakpoint set to 940px
+  p, ul, ol {
+    font-size: 12pt !important;
   }
 }

@@ -211,6 +211,7 @@ By the way these are some replays:
 * The Team After [Revision](https://www.reddit.com/r/stunfisk/comments/8q18l1/rmt_i_tried_to_create_rotomw_scizorm_team/) - http://replay.pokemonshowdown.com/gen7ou-761883330
 * Tyranitar Doing a Lot of Work - http://replay.pokemonshowdown.com/gen7ou-767256373
 * Lose - http://replay.pokemonshowdown.com/gen7ou-760304664
+* Tyranitor Close the Game - https://replay.pokemonshowdown.com/gen7ou-883790303
 
 ## Reference
 
