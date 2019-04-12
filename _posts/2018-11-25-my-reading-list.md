@@ -14,7 +14,7 @@ This is my intro to reading fantasy novel and I LOVE IT!. The magic system in Mi
 
 In Mistborn, the magic happened when the user *digest* several types of metals. If they digest pewter they'd be strong, if they digest tin it would heighten their senses, and so on.
 
-I love Brandon Sanderson's writing. It is easy to understand, and the fight scene is breathtaking. The fighting scene in Mistborn is the *expression of magic*. It shows how the author utilizes the magic system that he had created to amaze us. It's awesome.
+I love Brandon Sanderson's writing. It is easy to understand, and the fight scene is breathtaking. The fighting scene in Mistborn is the *expression of magic*. It shows how the author uses the magic system that he had created to amaze us. It's awesome.
 
 The thing appeal me about fantasy genre is the author's freedom about the magic system and the world. Fantasy doesn't mean dragons and ponies, magic doesn't mean fire and laser from magic wand. This really got me into fantasy genre, I thought every fantasy novel is going to be yet-another-harry-potter-story, oh boy I was wrong, fantasy genre is awesome!
 
@@ -22,13 +22,13 @@ The thing appeal me about fantasy genre is the author's freedom about the magic 
 
 After Mistborn, I read Elantris. This is Brandon's first work and it's still pretty rough but it's fantastic. I like this book not because the magic system, but the point of view is interesting. There are 3 main characters, and we can see different point of view every once in a while. When the character met each other, it feels wonderful to see each other's point of view.
 
-The magic system isn't utilized that often, but it's the underlying problem in the story. It's amazing to see something that overlooked but acts as an important part in the story.
+The magic system isn't used that often, but it's the underlying problem in the story. It's amazing to see something that overlooked but acts as an important part in the story.
 
 ### The Powder Mage (Brian McClellan)
 
 At this time, I'm still amazed by Brandon Sanderson, so I ask my friend for a recommendation, he recommends me this trilogy. I noticed that the writing style is similar to that of Brandon's. Apparently Brandon Sanderson is Brian McClellan's teacher!
 
-I love the magic system in this series as well. It feels *modern* because the character uses gunpowder to utilize the magic. It is impressive to see what the magic could do in military. I also like the setting of the story as well, it's called Flintlock Fantasy for that reason.
+I love the magic system in this series as well. It feels *modern* because the character uses gunpowder to use the magic. It is impressive to see what the magic could do in military. I also like the setting of the story as well, it's called Flintlock Fantasy for that reason.
 
 ### The Rithmatist (Brandon Sanderson)
 
@@ -46,17 +46,21 @@ This is a story about a genius man who splits his knowledge to different persona
 
 This is one of the best light novel I've ever read. To be frank, this is the first light novel I've read completely. Usually a light novel only have light story and doesn't have serious tone. However, Overlord is different, the content is serious with a good amount of humor, and the *slight* dark tone is really great. If you want to read a novel about an overpowered MC, then this is the one you need to read.
 
-## Currently Reading
-
 ### The Stormlight Archive (Brandon Sanderson)
 
 Before The Stormlight Archive, I tried Dresden Files first. Turned out I didn't like Urban Fantasy, so I go back to my favorite writer of all time, Brandon Sanderson. 50 pages into Dresden Files and I feel like it is a chore, but 50 pages into The Stormlight Archive and I crave more of it. So far so good, I love this book.
 
-By the time of writing this paragraph, I finished book 1 of The Stormlight Archive. The book has an interesting lore and history, and one of the MC sometimes *see* the past, it is amazing to read how people at present has wrong knowledge of history meanwhile one of the MC *see* the past by himself.
-
-The magic is quite interesting, there is this magic weapon called *Shardblade*, where the magic user could summon it into his hands, the blade cut material easily, but it couldn't cut human body, it phases through human body and cut the soul instead. Overall this book is awesome, and I binge-reading it every night. Totally awesome, and Brandon planned to write 10 books of it! I can't wait.
+By the time of writing this paragraph, I finished book 1 of The Stormlight Archive. The book has an interesting lore and history. One of the MC sometimes *see* the past, it is amazing to see how people at present has wrong assumption about what happened on the past meanwhile one of the MC *see* the past by himself. The magic is quite interesting, there is this magic weapon called *Shardblade*, where the user could summon it into his hands, the blade cut material easily, but it couldn't cut human body, it phases through human body and cut the soul instead, something like that. Overall this book is awesome, and I binge-reading it every night. Totally awesome, and Brandon planned to write 10 books of it! I can't wait.
 
 By the time of writing this paragraph, I finished book 2 of The Stormlight Archive. Damn it's good. And I just realized the book 3 already published since 2017, time to read more of it :D
+
+And by the time of writing this paragraph, I finished book 3! Phew, that was a great journey. Towards the end it was kind of drag, it feels sooo slooowwww. But I keep reading it, and the ending is pretty good that I forgive Brandon for that drag haha. Since book 4 hasn't come out yet, I'm gonna put this book on "Finished" section.
+
+### The Alchemist (Paulo Coelho)
+
+Someone on the internet says that this book is great for inspiration, finding the meaning of life, and whatnot. I was intrigued, however seems like it has mixed reviews. Despite all of that, since I like adventure and fantasy, I dive into this book. As for the "enlightment" part, it is actually pretty nice. Not that godly great, but I understand the message and it is really nice. My favorite part is the sense of "movement", how the main character move from one place to the other, trying to finding his treasure and meeting with different kinds of person. Overall I recommend this book, but don't read it by expecting to find the meaning of life, read it for the adventure :)
+
+## Currently Reading
 
 ## Next
 

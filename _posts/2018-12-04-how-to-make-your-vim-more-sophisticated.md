@@ -2,6 +2,7 @@
 title: (WIP) How to Make Your Vim More Sophisticated
 description:
 header: (WIP) How to Make Your Vim More Sophisticated
+published: false
 ---
 
 I love Vim, here's a step-by-step guide to make it feature-packed and better. I tried to start from scratch, and here's what default Vim looks like:

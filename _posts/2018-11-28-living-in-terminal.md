@@ -2,6 +2,7 @@
 title: (WIP) Living in Terminal
 description:
 header: (WIP) Living in Terminal
+published: false
 ---
 
 <!--
