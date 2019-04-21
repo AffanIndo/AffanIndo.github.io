@@ -8,8 +8,6 @@ header: The Only Tips You Need to Learn a Foreign Language
 
 To be honest, this article isn't entirely original. I watched a video about a guy that learn Italian in 7 days, and his tips are the thing I need to hear. Basically... this video is a summary of his video. If you want to watch the video, this is [part 1](https://www.youtube.com/watch?v=fxAaBZNduQs), and this is [part 2](https://www.youtube.com/watch?v=o1wU0kPUjfc). The point of me writing this article is to make a note to myself, and as a place where I can refer and read it anytime in a simple format, to aid me learning language.
 
-![image](/img/learn-language/book.jpg "Photo by Dmitry Ratushny on Unsplash")
-
 ### Top 1000 Words
 
 * Learning random vocabulary is an inefficient strategy. Having tons of random vocabulary is useless in the beginning because it is not needed to have general conversation.
