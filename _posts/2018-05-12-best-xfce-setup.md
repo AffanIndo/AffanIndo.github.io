@@ -86,6 +86,7 @@ I am not saying that I will not make more *ricing* post but this is my *blank st
 +curl
 +exfat-fuse exfat-utils
 +feh
++fzf (manual)
 +fp-compiler fp-ide
 +git
 +hexchat
