@@ -1,7 +1,7 @@
 # Site settings
 title: Affan's Blog
 description: "This is my blog"
-url: "http://www.affanindo.github.io"
+url: "http://www.dyutibarma.github.io/monochrome"
 author:
   name: ""
   email: ""
@@ -34,6 +34,6 @@ gems:
 version: "1.0.0"
 
 # Options
-custom_header: false
+custom_header: true
 custom_nav_footer: false
 reverse: false

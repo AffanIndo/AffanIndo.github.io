@@ -4,7 +4,15 @@
 {% include head.html %}
 
 <body>
-  <div id="wrap">
+	<div id="wrap">
+	  	
+	  	<!-- Navigation -->
+	  	{% include menu.html %}
+    
+    <!-- Icon menu -->
+	  <a {% if site.reverse == true %}id="nav-menu-left"{% else %}id="nav-menu"{% endif %}>
+	  	<div id="menu"></div>
+	  </a>
 
       <!-- Header -->
       {% if site.custom_header == true %}
@@ -14,15 +22,15 @@
       {% endif %}
 
     <!-- Main content -->
-    <div id="container">
-      
-    <main>
+	  <div id="container">
+		  
+		<main>
 
-      {{ content }}
+			{{ content }}
 
-    </main>
-    
-      <!-- Pagination links -->
+	  </main>
+		
+		  <!-- Pagination links -->
       {% if paginator.total_pages > 1 %}
         <div class="pagination">
           {% if paginator.previous_page == 1 %}
@@ -51,14 +59,14 @@
         </div>
         {% endif %}
 
-    </div>
-      
-      <!-- Footer -->
-      {% include footer.html %}
+	  </div>
+	    
+	    <!-- Footer -->
+	    {% include footer.html %}
 
-      <!-- Script -->
+	    <!-- Script -->
       {% include script.html %}
 
-  </div>
+	</div>
 </body>
 </html>

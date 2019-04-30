@@ -11,7 +11,8 @@ header: Markdown Reference
 **put a whiteline after the image**
 
 ## Test Section 1
-Don't put a whiteline after subtitle. Put double space to break into newline without double enter.  
+
+Put a whiteline after subtitle. Put double space to break into newline without double enter.  
 Lorem ipsum dolor sit amet, [this is a link](http://www.example.com) elit. Totam quasi maxime quas repudiandae nam id temporibus, at et non officiis consectetur voluptate deserunt officia minima placeat tempore illum asperiores quo assumenda praesentium? Facilis libero error ratione doloribus debitis delectus asperiores minima ab velit quam breakline with 2 spaces.  
 Natus ea, vero totam recusandae autem, corporis minima, animi eos perferendis omnis ut asperiores magni tempore. Repellendus aliquam saepe perspiciatis laborum, excepturi sit libero dignissimos debitis eaque itaque quos, accusantium sed amet tempora temporibus perferendis possimus, quisquam minus fuga! Laudantium, tenetur, consectetur! Quas itaque hic consequatur accusamus consectetur, quia odio eos amet quasi pariatur! Ratione, similique.
 
@@ -22,9 +23,9 @@ Natus ea, vero totam recusandae autem, corporis minima, animi eos perferendis om
 ##### This is h5
 ###### This is h6
 
-> Creating blockquotes using "> "
+> Create blockquotes using "> "
 
-Put backward tick `to inline code mode`
+Put backward tick `to inline code`
 
 Don't forget to double space if you want to write inline code in next line  
 `like this`
@@ -73,3 +74,4 @@ def hello
 end
 
 {% endhighlight %}
+
