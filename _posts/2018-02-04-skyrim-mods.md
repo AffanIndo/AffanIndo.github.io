@@ -40,7 +40,7 @@ SKSE is a mod that makes other mod can do amazing stuff because default Skyrim i
 
 ### Performance
 
-Since I have potato PC, I Follow [this Youtube guide](https://www.youtube.com/watch?v=C_SciRvDTVI) to improve performance. There are a lot of tweaks in that video, not only by installing these mods. So, refer to that video if you want to use these mods to their full potential.
+Since I have potato PC, I follow [this Youtube guide](https://www.youtube.com/watch?v=C_SciRvDTVI) to improve performance. There are a lot of tweaks in that video, not only by installing these mods. So, refer to that video if you want to use these mods to their full potential.
 
 * **Texture Optimizer - Pine Needle FX** - Performance boost.
 * **Texture Optimizer - Rainfall FX** - Performance boost.
@@ -95,15 +95,15 @@ Since I have potato PC, I Follow [this Youtube guide](https://www.youtube.com/wa
 * **VHH** - Walking animation.
 * **Pretty Female Idles** - Self explanatory. Also, it doesn't need FNIS.
 
-### Mod List Screenshot
+### Mod List Screenshots
 
-![image](/img/skyrim-2019-1.png "Mod List Screenshot")
-![image](/img/skyrim-2019-2.png "Mod List Screenshot")
-![image](/img/skyrim-2019-3.png "Mod List Screenshot")
+![image](/img/skyrim-mods/skyrim-2019-1.png "Mod List Screenshot")
+![image](/img/skyrim-mods/skyrim-2019-2.png "Mod List Screenshot")
+![image](/img/skyrim-mods/skyrim-2019-3.png "Mod List Screenshot")
 
 ### My Characters
 
-![image](/img/skyrim-elynn.png "Elynn")
+![image](/img/skyrim-mods/skyrim-elynn.png "Elynn")
 
 Name: Elynn
 
@@ -118,3 +118,16 @@ Mods:
 - SG Hair
 - ShowRaceMenuPrecacheKiller
 
+![image](/img/skyrim-mods/skyrim-vynn.png "Vynn")
+
+Name: Vynn
+
+Mods:  
+- CBBE & BodySlide
+- Cherry's Eyes
+- ECE
+- Facelight
+- Fair Skin
+- SG Eyebrows
+- SG Hair
+- ShowRaceMenuPrecacheKiller
