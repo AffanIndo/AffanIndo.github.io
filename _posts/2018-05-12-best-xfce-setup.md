@@ -78,7 +78,7 @@ I am not saying that I will not make more *ricing* post but this is my *blank st
 +arc-theme (ppa)
 +audacious
 +audacity (ppa)
-+blender (ppa)
++blender
 +cheese
 +chromium-browser
 +codeblocks
@@ -99,6 +99,7 @@ I am not saying that I will not make more *ricing* post but this is my *blank st
 +libreoffice-impress
 +mediainfo
 +mplayer
++moka-icon-theme (ppa)
 +mpv (ppa)
 +obs-studio (ppa)
 +papirus-icon-theme (ppa)

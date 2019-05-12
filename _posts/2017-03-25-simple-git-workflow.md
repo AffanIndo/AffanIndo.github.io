@@ -25,7 +25,7 @@ After you click that button, you will directed to "Create a new repository page"
 ![image](/img/simple-git-workflow/new-repo-created.jpg)
 After you create the repository, this is the repository page. It contains the content list and show you your README files.
 
-![image](/img/simple-git-workflow/clone-button.JPG)
+![image](/img/simple-git-workflow/clone-button.jpg)
 After your repository is done, you should clone it to your hard drive by clicking that large green button and then copy the link.
 
 ![image](/img/simple-git-workflow/clone-terminal.jpg)
