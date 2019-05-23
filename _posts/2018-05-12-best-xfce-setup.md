@@ -74,7 +74,6 @@ I am not saying that I will not make more *ricing* post but this is my *blank st
 -sgt-puzzles
 -thunderbird
 +adapta-gtk-theme (ppa)
-+apache2 mysql-server php7.1 libapache2-mod-php7.1 php7.1-common php7.1-mbstring php7.1-xmlrpc php7.1-gd php7.1-xml php7.1-mysql php7.1-cli php7.1-mcrypt php7.1-zip php7.1-curl(ppa)
 +arc-theme (ppa)
 +audacious
 +audacity (ppa)
@@ -87,21 +86,19 @@ I am not saying that I will not make more *ricing* post but this is my *blank st
 +exfat-fuse exfat-utils
 +feh
 +fzf (manual)
-+fp-compiler fp-ide
 +git
 +hexchat
-+hplip-3.19.1 (manual)
 +htop
 +inkscape (ppa)
 +intellij (manual)
 +java-jdk-11 (manual)
-+jupyter-notebook
 +libreoffice-impress
 +mediainfo
 +mplayer
-+moka-icon-theme (ppa)
 +mpv (ppa)
++numix-icon-theme-circle (ppa)
 +obs-studio (ppa)
++oranchello-icon-theme (ppa)
 +papirus-icon-theme (ppa)
 +pcsx2 (ppa)
 +persepolis (ppa)
