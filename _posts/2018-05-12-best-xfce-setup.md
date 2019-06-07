@@ -78,6 +78,7 @@ I am not saying that I will not make more *ricing* post but this is my *blank st
 +audacious
 +audacity (ppa)
 +blender
++checkinstall
 +cheese
 +chromium-browser
 +codeblocks
@@ -94,8 +95,10 @@ I am not saying that I will not make more *ricing* post but this is my *blank st
 +java-jdk-11 (manual)
 +libreoffice-impress
 +mediainfo
++meld
 +mplayer
 +mpv (ppa)
++mupdf
 +numix-icon-theme-circle (ppa)
 +obs-studio (ppa)
 +oranchello-icon-theme (ppa)
@@ -111,6 +114,7 @@ I am not saying that I will not make more *ricing* post but this is my *blank st
 +stow
 +synaptic
 +tlp (ppa)
++torbrowser-launcher
 +tmux
 +ubuntu-restricted-extras
 +vim

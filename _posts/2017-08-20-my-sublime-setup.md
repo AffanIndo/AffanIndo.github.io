@@ -59,7 +59,7 @@ Just a blob of text here. If you want to see the latest version, check my [dotfi
         "_offline"
     ],
     "font_face": "Ubuntu Mono",
-    "font_size": 15,
+    "font_size": 14,
     "highlight_line": true,
     "highlight_modified_tabs": true,
     "ignored_packages":
@@ -68,10 +68,11 @@ Just a blob of text here. If you want to see the latest version, check my [dotfi
     ],
     "line_padding_bottom": 1,
     "line_padding_top": 1,
+    "predawn_tabs_active_underline": true,
     "preview_on_click": false,
     "save_on_focus_lost": true,
     "tab_size": 4,
-    "theme": "predawn.sublime-theme",
+    "theme": "predawn-DEV.sublime-theme",
     "predawn_tabs_active_underline": true,
     "translate_tabs_to_spaces": true,
     "update_check": false,

@@ -10,7 +10,7 @@ I'm still new to reading recreationally. That's why I created this post to keep 
 
 ### Mistborn (Brandon Sanderson)
 
-This is my intro to reading fantasy novel and I LOVE IT!. The magic system in Mistborn is so fleshed out! Previously, I thought that if I read fantasy genre, the character is going to flick their wand, and magically some electric or fire burst from the wand. I was wrong, The magic system is unique and none like the others.
+This is my intro to reading fantasy novel, and I LOVE IT!. The magic system in Mistborn is so fleshed out! Previously, I thought that if I read fantasy genre, the character is going to flick their wand, and magically some electric or fire burst from the wand. I was wrong, The magic system is unique and none like the others.
 
 In Mistborn, the magic happened when the user *digest* several types of metals. If they digest pewter they'd be strong, if they digest tin it would heighten their senses, and so on.
 
