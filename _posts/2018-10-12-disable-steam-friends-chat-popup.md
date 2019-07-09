@@ -14,6 +14,8 @@ The new Steam Chat is here, but every single time you open Steam, it popup right
 
 Save the file, and now it will never popup anymore.
 
+**Update 2019-06-23:** You could also copy the `.desktop` file to `~/.local/share/applications`. This way, you have your own modified `.desktop` files without doing `sudo` and messing up system files.
+
 ## References
 
 * https://www.pcworld.com/article/3293009/gaming/how-to-stop-new-steam-chat-friends-list.html

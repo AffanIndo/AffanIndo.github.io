@@ -1,7 +1,7 @@
 ---
-title: How to Change Application Icon in Ubuntu
+title: How to Change Application Icon in Linux
 description:
-header: How to Change Application Icon in Ubuntu
+header: How to Change Application Icon in Linux
 ---
 Do you hate it when your favorite icon pack didn't have some application that you use frequently? I hate it because my favorite app looks so bad compared the other application icons. I mean, just look at this:
 
@@ -36,3 +36,5 @@ Find the keyword `Icon` and change it to the icon name that you remembered earli
 And done! Enjoy your new icon :)
 
 ![image](/img/change-icon/icon-good.png "Aww yeah!")
+
+**Update 2019-06-23:** You could also copy the `.desktop` file to `~/.local/share/applications`. This way, you have your own modified `.desktop` files without doing `sudo` and messing up system files.

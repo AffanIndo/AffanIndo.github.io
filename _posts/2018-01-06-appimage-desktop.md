@@ -30,3 +30,5 @@ If you want to use `DRI_PRIME=1`, you need to prepend it with `env` so instead o
 
 And that's it for today :) Pretty simple and easy. See you again in the next post!
 
+**Update 2019-06-23:** You could also copy the `.desktop` file to `~/.local/share/applications`. This way, you have your own modified `.desktop` files without doing `sudo` and messing up system files.
+

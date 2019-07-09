@@ -49,6 +49,8 @@ You don't really have to run Steam from terminal every single time, though. Ther
 
 **ADDITIONAL INFO**: At first I am afraid that only the main app use the AMD, for example if I open Steam then Dota, only Steam use AMD but Dota didn't. But after some experimenting, both of them use AMD because I launch Dota from Steam. I also try running PlayOnLinux then launch Skyrim from it, the Skyrim also use AMD, so don't worry about it.
 
+**Update 2019-06-23:** You could also copy the `.desktop` file to `~/.local/share/applications`. This way, you have your own modified `.desktop` files without doing `sudo` and messing up system files.
+
 Here is my results:  
 [Video](https://www.youtube.com/watch?v=7qlgKn4TqQw)  
 ![image](/img/skyrim.jpeg "Ultra")
