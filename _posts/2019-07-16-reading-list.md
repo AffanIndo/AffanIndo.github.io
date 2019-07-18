@@ -27,6 +27,7 @@ header: Reading List
 * ~~Paulo Coelho - The Alchemist~~
 * ~~Brandon Sanderson - Warbreaker~~
 * ~~Brandon Sanderson - Arcanum Unbounded~~
+* <span style="color:#4CAF50">Joe Abercrombie - The First Law</span>
 
 ### Self-Help
 
@@ -38,6 +39,6 @@ header: Reading List
 
 * ~~Zed Shaw - Learn Python the Hard Way~~
 * ~~Al Sweigart - Automate the Boring Stuff with Python~~
+* ~~Drew Neil - Modern Vim~~
 * <span style="color:#4CAF50">Brian W. Kernighan and Dennis M. Ritchie - The C Programming Language (2nd Edition)</span>
-* <span style="color:#4CAF50">Drew Neil - Modern Vim</span>
 
