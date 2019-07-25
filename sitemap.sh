@@ -16,6 +16,6 @@ do
     sed '2!d' $f | cut -c8- | tr -d '\n'; # Blog title
     echo -n "](";
     echo -n "https://affanindo.github.io/";
-    echo $f | cut -c12- | rev | cut -c4- | rev | tr -d '\n'; # Somehow `echo -n` doesn't work, so had to use `tr -d '\n`
+    echo $f | cut -c10- | rev | cut -c4- | rev | tr -d '\n'; # Somehow `echo -n` doesn't work, so had to use `tr -d '\n`
     echo ")  ";
 done
