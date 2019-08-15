@@ -6,7 +6,7 @@ header: Nethack Roles
 
 This guide will point out things that players should keep in mind about early-game with some roles. This guide will only explain about early-game and suggestions to do during those time, also this guide will not extends beyond Sokoban.
 
-## Valkyrie
+### Valkyrie
 
 * You got cold resistance at level 1, stealth at level 1, and speed at level 7.
 * Reach Expert in long sword and dagger. Don't bother with spells.
@@ -18,10 +18,10 @@ This guide will point out things that players should keep in mind about early-ga
 * You can reach Skilled in two weapon combat, but some people prefer having shields over twoweaponing.
 * After Minetown, go for Sokoban. Mines' end is not that necessary because Valkyrie quest artifact acts as a luckstone.
 
-## Rogue
+### Rogue
 
 * You got stealth at level 1, and searching at level 10.
-* Orcs are slightly easier early-game due to their starting food, poison resistance, infravision, cannibalism, and same-race sacrifice.
+* Orcs have slightly easier early-game due to their starting food, poison resistance, infravision, cannibalism, and same-race sacrifice. However, humans have better starting weapon and stats.
 * Drop your starting short sword immediately because you'll never use it.
 * Your main weapon is thrown daggers, your main objective is to train it to Expert.
 * Do an early Sokoban to train your strength.
@@ -31,7 +31,7 @@ This guide will point out things that players should keep in mind about early-ga
 * You can reach Expert in two weapon combat. But, some people prefer not to because single-handed Grayswandir does a lot of damage already.
 * If you want to train spells, you can reach Skilled in divination, escape, and matter.
 
-## Barbarian
+### Barbarian
 
 * You got poison resistance at level 1, speed at level 7, and stealth at level 15.
 * Reach Expert in axe. Because, your first sacrifice is a guaranteed artifact battle-axe (Cleaver).
@@ -44,7 +44,7 @@ This guide will point out things that players should keep in mind about early-ga
 * Additionally, you can reach Basic in two weapon combat, Basic in saber, and Skilled in long sword.
 
 
-## Samurai
+### Samurai
 
 * You got speed at level 1, and stealth at level 15.
 * Drop your starting wakizashi (short sword) immediately because you'll never use it.
@@ -52,4 +52,13 @@ This guide will point out things that players should keep in mind about early-ga
 * You can reach Expert in bow, but veteran players recommend to level it until Skilled only.
 * Samurai strategy is simple. Just Hulk Smash your way until you ascend :)
 * Find a long sword and turn it into Excalibur. Twoweapon it with your katana. Alternatively, try Snickersnee.
+
+### Wizard
+* You got teleport at will (if the character has teleportitis) at level 8, warning at level 15, and teleport control at level 17.
+* Drop your starting quarterstaff immediately because dagger is better, grab the first you can find, and collect tons of them to throw.
+* Reach Expert in dagger. Because, your first sacrifice is a guaranteed artifact dagger (Magicbane).
+* Until you have better spells (like Magic Missile) and Pw, early game you're a warrior with a dagger.
+* Read any non-cursed spellbooks you find, you get warning if it's too difficult.
+* If you find a coaligned altar, camp it until you get Magicbane.
+* Go down to the Oracle level and breaking statues there in search of spellbooks.
 
