@@ -8,9 +8,17 @@ header: Assassin's Creed 4 Review
 
 Assassin's Creed 4 is a continuation of Assassin's Creed series. Previously we play as Connor Kenway, fighting on American war of Independence. Now we play as Edward Kenway, a pirate from the Golden Era of Piracy. Assassin's Creed 3 was my first Assassin's Creed game, and it hold a special place on my heart. If you don't know, Assassin's Creed 3 is the first one to introduce naval warfare. On that game, naval warfare is just some other gameplay mechanics, similar to tower defense we have on Assassin's Creed: Revelations. However, that naval warfare of Assassin's Creed 3 is the main point of Assassin's Creed 4.
 
+### Pirates!
+
 Since Edward Kenway is a pirate, of course, we are going to see a lot of naval actions. This is the thing that I dislike, I still see naval warfare as a side quest since I play a lot of Assassin's Creed 3, but on this game it is the major thing you do. So it's kind of thing that I had to bear with. Honestly, I like Ezio story more since we see a lot of magnificent buildings and not endless sea. But other people gonna love this mechanic because it's pretty new and nice. But as someone who has spent countless hours on the sea with Assassin's Creed 3, it gets old fast. It's one of the reason a lot of people say "It's not a good Assassin's Creed game, but it's a good pirate game". The animation when you success hoarding a ship is really repetitive and annoying. So that's another minus from me.
 
+### Bugs
+
 Some of the quest are bugged, there are a puzzle where you had to be pixel perfect to solve it. Other puzzles are fine, just this specific one is bugged. Also, there is a bug where if you reload from the past checkpoint, you had to redo the optional objectives again. This took a long time since I failed a lot, and after I failed I had to go back and redo the optional objectives again.
+
+### Stuff I Like
+
+![image](/img/ac4-2.jpg "AC 4")
 
 Despite these issues, there are some things that I like about this game. The music is top-notch, they really captured the essence of being a pirate back then. All of the songs have piratey theme to it. Also, your crewmates sometimes sing together when you drive the ship. It's really immersive and amazing to see (to hear?) how much the music really well-integrated within the game. I love it.
 
@@ -22,10 +30,10 @@ This game has a lot to offer to completionist. There are treasure chests everywh
 
 Another cool thing is seamlessness. For example, you're wandering around the sea, and then you see a treasure chest on a small island. Now you go swim to that thing. After collecting it, you drive your ship and arrived at a small village, then you do a side quest where you had to kill someone. That person spotted you and run to his ship to flee. Now you run back to your ship ASAP and use your ship to chase his ship. And after naval warfare, you finally able to board his ship, and you killed him. Phew, quite a long sequence, right? All of this action has no loading screen, I mean, the game could change context on the fly seamlessly. My mind was blown when I experience what an amazing and immersive experience it was to do action uninterrupted with loading screens.
 
+### Conclusion
+
 * **Content** - 9/10
 * **Gameplay** - 7/10
 * **Graphics** - 10/10
 * **Music** - 10/10
 * **Story** - 10/10
-
-![image](/img/ac4-2.jpg "AC 4")
