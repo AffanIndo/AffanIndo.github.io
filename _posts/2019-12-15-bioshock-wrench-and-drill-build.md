@@ -1,10 +1,10 @@
 ---
-title: Bioshock Wrench and Drill Build
+title: BioShock Wrench and Drill Build
 description:
-header: Bioshock Wrench and Drill Build
+header: BioShock Wrench and Drill Build
 ---
 
-### Bioshock 1
+### BioShock 1
 
 ![image](/img/bioshock-wrench.png "Wrench")
 
@@ -61,7 +61,7 @@ Wrench Only (* = Optional; ** = Hacking):
         [ ] 50% Wrench Damage Increase - (4th research bar on the "Bouncer")
 ```
 
-### Bioshock 2
+### BioShock 2
 
 ![image](/img/bioshock-drill.png "Drill")
 
