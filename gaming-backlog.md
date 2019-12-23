@@ -20,5 +20,6 @@ header: Gaming Backlog
 * ~~BioShock 1~~
 * ~~BioShock 2~~
 * ~~BioShock 2: Minerva's Den~~
+* ~~Sniper Elite V2~~
 * <span style="color:#4CAF50">Phoenix Wright: Ace Attorney - Trials and Tribulations</span>
-* <span style="color:#4CAF50">Sniper Elite V2</span>
+* <span style="color:#4CAF50">The Witcher 2: Assassins of Kings</span>
