@@ -37,3 +37,7 @@ version: "1.0.0"
 custom_header: true
 custom_nav_footer: false
 reverse: false
+
+# Google analytics
+google_analytics: UA-155183886-1
+
