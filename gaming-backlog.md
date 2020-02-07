@@ -22,5 +22,6 @@ header: Gaming Backlog
 * ~~BioShock 2: Minerva's Den~~
 * ~~Sniper Elite V2~~
 * ~~The Witcher 2: Assassins of Kings~~
-* <span style="color:#4CAF50">Half Life 2</span>
+* <span style="color:#F44336">Half Life 2</span>
+* <span style="color:#4CAF50">SENRAN KAGURA Burst Re:Newal</span>
 * <span style="color:#4CAF50">Phoenix Wright: Ace Attorney - Trials and Tribulations</span>
