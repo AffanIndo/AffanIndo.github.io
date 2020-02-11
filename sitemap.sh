@@ -12,7 +12,9 @@ EOF
 
 for f in ./_posts/*.md
 do
-    echo -n "[";
+    echo -n \`\<;
+    echo $f | cut -c10- | head -c 10 | tr -d '\n'; # Blog date
+    echo -n ">\` [";
     sed '2!d' $f | cut -c8- | tr -d '\n'; # Blog title
     echo -n "](";
     echo -n "https://affanindo.github.io/";

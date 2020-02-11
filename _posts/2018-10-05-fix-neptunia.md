@@ -1,5 +1,5 @@
 ---
-title: Install Hyperdimension Neptunia Re;Birth1 No Sound/Video on Wine/PlayOnLinux
+title: Fix Hyperdimension Neptunia Re;Birth1 No Sound/Video on Wine/PlayOnLinux
 description:
 header: Fix Hyperdimension Neptunia Re;Birth1 No Sound/Video on Wine/PlayOnLinux
 ---
