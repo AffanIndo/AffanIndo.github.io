@@ -23,5 +23,6 @@ header: Gaming Backlog
 * ~~Sniper Elite V2~~
 * ~~The Witcher 2: Assassins of Kings~~
 * <span style="color:#F44336">Half Life 2</span>
+* <span style="color:#4CAF50">GTA 4</span>
 * <span style="color:#4CAF50">SENRAN KAGURA Burst Re:Newal</span>
 * <span style="color:#4CAF50">Phoenix Wright: Ace Attorney - Trials and Tribulations</span>
