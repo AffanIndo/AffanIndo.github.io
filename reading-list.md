@@ -34,11 +34,12 @@ header: Reading List
 * ~~Thomas Frank - 10 Steps to Earning Awesome Grades~~
 * ~~Ilia Boyko - How to Change Your Life~~
 * <span style="color:#4CAF50">Jeff Olson - The Slight Edge</span>
+* Never Split the Difference
 
 ### Tech
 
 * ~~Zed Shaw - Learn Python the Hard Way~~
 * ~~Al Sweigart - Automate the Boring Stuff with Python~~
 * ~~Drew Neil - Modern Vim~~
-* <span style="color:#4CAF50">Brian W. Kernighan and Dennis M. Ritchie - The C Programming Language (2nd Edition)</span>
+* <span style="color:#F44336">Brian W. Kernighan and Dennis M. Ritchie - The C Programming Language (2nd Edition)</span>
 
