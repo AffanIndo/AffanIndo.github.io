@@ -25,7 +25,7 @@ header: Gaming Backlog
 * <span style="color:#F44336">Half Life 2</span>
 * ~~GTA IV~~
 * <span style="color:#F44336">GTA IV: The Lost and Damned</span>
-* <span style="color:#4CAF50">BioShock Infinite</span>
+* ~~BioShock Infinite~~
 * <span style="color:#4CAF50">SENRAN KAGURA Burst Re:Newal</span>
 * <span style="color:#4CAF50">Phoenix Wright: Ace Attorney - Trials and Tribulations</span>
 
