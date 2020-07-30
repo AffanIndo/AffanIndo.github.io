@@ -26,6 +26,11 @@ header: Gaming Backlog
 * ~~GTA IV~~
 * <span style="color:#F44336">GTA IV: The Lost and Damned</span>
 * ~~BioShock Infinite~~
+* <span style="color:#F44336">Castlevania: Circle of the Moon</span>
+* ~~Helltaker~~
 * <span style="color:#4CAF50">SENRAN KAGURA Burst Re:Newal</span>
 * <span style="color:#4CAF50">Phoenix Wright: Ace Attorney - Trials and Tribulations</span>
+* ~~Dark Souls Remastered~~
+* <span style="color:#4CAF50">Terraria</span>
+
 
