@@ -28,9 +28,9 @@ header: Gaming Backlog
 * ~~BioShock Infinite~~
 * <span style="color:#F44336">Castlevania: Circle of the Moon</span>
 * ~~Helltaker~~
-* <span style="color:#4CAF50">SENRAN KAGURA Burst Re:Newal</span>
-* <span style="color:#4CAF50">Phoenix Wright: Ace Attorney - Trials and Tribulations</span>
+* ~~SENRAN KAGURA Burst Re:Newal~~
+* ~~Phoenix Wright: Ace Attorney - Trials and Tribulations~~
 * ~~Dark Souls Remastered~~
-* <span style="color:#4CAF50">Terraria</span>
+* ~~Terraria~~
 
 
