@@ -32,5 +32,4 @@ header: Gaming Backlog
 * ~~Phoenix Wright: Ace Attorney - Trials and Tribulations~~
 * ~~Dark Souls Remastered~~
 * ~~Terraria~~
-
-
+* <span style="color:#4CAF50">Far Cry 3</span>
