@@ -18,24 +18,34 @@ Saya hanya akan menggunakan guide missable content dari [sini](https://www.reddi
 
 ![image](/img/border.png "Border")
 
-### 1st Session: September 2020
+### Notes
 
 Summary:  
-- Mulai game, farming sampai lvl 4, lawan Garland (Boss 1)
+- ~~Mulai game, farming sampai lvl 4, lawan Garland (Boss 1)~~
+- Ketemu Matoya, terus ke kota bajak laut, terus naik kapal ke Elfheim, terus ke Western Keep. Tapi quest Matoya/Elfheim/Western Keep belum selesai. Sekarang ke Marsh Cave untuk bantu Western Keep
 
 Main Quest:  
-- Lewatin jembatan, ke utara
+- ~~Lawan Garland (Boss 1)~~
+- ~~Lewatin jembatan, ke utara~~
+- ~~Kata NPC, di East ada kota Pavoka yang diserang bajak laut, terus dapatkan kapal~~
+- Ketemu Matoya, dia bilang dia tidak bisa melihat tanpa Crystal Eye, mungkin disuruh cari dan balikin?
+- Elf Prince tidak bangun-bangun dari tidurnya. Mungkin disuruh cari antidote, dan Matoya jago bikin potion, mungkin disuruh bantu Matoya supaya dibuatkan antidotenya?
+- Ambil crown dari Marsh Cave untuk mengembalikan Western Keep, mungkin lawan Astos, si Dark Elf?
 
 Side Quest:  
-- Habis mengalahkan Garland (Boss 1), ada NPC yang pakai hood, dia langsung jalan ke luar kota setelah dicoba interaksi
-- Kata NPC, di East ada kota yang diserang bajak laut
+- Habis mengalahkan Garland (Boss 1), ada NPC yang pakai hood di Cornelia, dia langsung jalan ke luar kota setelah dicoba interaksi
 - Kata NPC, ada "Sage Lukahn" mencari Crescent Moon, dia pergi meninggalkan Cornelia. Dia bilang bisa mencuri kapal Bajak Laut
-- Kata NPC, ada Witch bernama Matoya di North dari Cornelia
-- Earth dungeon di antara Cornelia Castle dan Garland (Boss 1) Castle
+- Jauh di barat ada kota Melmond yang dikuasai monster
+- Di Elfheim ada sage yang katanya bisa reveal masa depan, tapi tidak sekarang. Sage Lukahn?
+- Ada dwarf di western edge of Aldean Sea
 
 Remember This:  
-- Ada Mystic Key Door di Cornelia Castle, dan Garland (Boss 1) Castle
+- Ada Earth dungeon di antara Cornelia Castle dan Garland (Boss 1) Castle
+- Ada Mystic Key Door di Cornelia Castle, dan cavern si Garland (Boss 1) Castle
+- Ada Mystic Key Door di Elfheim Castle, dan Western Keep
 - Bisa bicara dengan Dancer di Cornelia kalau tidak tahu mau ngapain
 - Princess memberi Lute, Key Item
+- Ada Elf yang bilang weapon sama gear Mythril itu kuat banget. Mungkin senjata OP late game?
 
 ![image](/img/border.png "Border")
+
