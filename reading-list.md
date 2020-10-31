@@ -27,14 +27,16 @@ header: Reading List
 * ~~Paulo Coelho - The Alchemist~~
 * ~~Brandon Sanderson - Warbreaker~~
 * ~~Brandon Sanderson - Arcanum Unbounded~~
-* <span style="color:#4CAF50">Joe Abercrombie - The First Law</span>
+* ~~Joe Abercrombie - The First Law~~
+* ~~Joe Abercrombie - Best Served Cold~~
 
 ### Self-Help
 
 * ~~Thomas Frank - 10 Steps to Earning Awesome Grades~~
 * ~~Ilia Boyko - How to Change Your Life~~
 * <span style="color:#4CAF50">Jeff Olson - The Slight Edge</span>
-* Never Split the Difference
+* Cal Newport - Deep Work
+* Christopher Voss - Never Split the Difference
 
 ### Tech
 

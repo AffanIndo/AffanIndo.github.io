@@ -22,30 +22,36 @@ Saya hanya akan menggunakan guide missable content dari [sini](https://www.reddi
 
 Summary:  
 - ~~Mulai game, farming sampai lvl 4, lawan Garland (Boss 1)~~
-- Ketemu Matoya, terus ke kota bajak laut, terus naik kapal ke Elfheim, terus ke Western Keep. Tapi quest Matoya/Elfheim/Western Keep belum selesai. Sekarang ke Marsh Cave untuk bantu Western Keep
+- ~~Ketemu Matoya, terus ke kota bajak laut, terus naik kapal ke Elfheim, terus ke Western Keep. Tapi quest Matoya/Elfheim/Western Keep belum selesai. Sekarang ke Marsh Cave untuk bantu Western Keep~~
+- ~~Selesai misi Matoya + Elf + Western Keep~~
 
 Main Quest:  
 - ~~Lawan Garland (Boss 1)~~
 - ~~Lewatin jembatan, ke utara~~
 - ~~Kata NPC, di East ada kota Pavoka yang diserang bajak laut, terus dapatkan kapal~~
-- Ketemu Matoya, dia bilang dia tidak bisa melihat tanpa Crystal Eye, mungkin disuruh cari dan balikin?
-- Elf Prince tidak bangun-bangun dari tidurnya. Mungkin disuruh cari antidote, dan Matoya jago bikin potion, mungkin disuruh bantu Matoya supaya dibuatkan antidotenya?
-- Ambil crown dari Marsh Cave untuk mengembalikan Western Keep, mungkin lawan Astos, si Dark Elf?
+- ~~Ketemu Matoya, dia bilang dia tidak bisa melihat tanpa Crystal Eye, mungkin disuruh cari dan balikin?~~
+- ~~Elf Prince tidak bangun-bangun dari tidurnya. Mungkin disuruh cari antidote, dan Matoya jago bikin potion, mungkin disuruh bantu Matoya supaya dibuatkan antidotenya?~~
+- ~~Ambil crown dari Marsh Cave untuk mengembalikan Western Keep, mungkin lawan Astos, si Dark Elf?~~
+- ~~Ada dwarf di western edge of Aldean Sea~~
+- ~~Sudah kalahkan vampire, terus ambil earth rod dari Sadda, terus balik lagi buat kalahin boss satunya lagi.~~
+- ~~Di barat kota danau (kanan bawah) ada Fire boss~~
 
 Side Quest:  
 - Habis mengalahkan Garland (Boss 1), ada NPC yang pakai hood di Cornelia, dia langsung jalan ke luar kota setelah dicoba interaksi
-- Kata NPC, ada "Sage Lukahn" mencari Crescent Moon, dia pergi meninggalkan Cornelia. Dia bilang bisa mencuri kapal Bajak Laut
-- Jauh di barat ada kota Melmond yang dikuasai monster
-- Di Elfheim ada sage yang katanya bisa reveal masa depan, tapi tidak sekarang. Sage Lukahn?
-- Ada dwarf di western edge of Aldean Sea
 
 Remember This:  
+- Ada Hellfire Chasm di pulau2 naga
+- Ada Whisperwind cove di utara kota danau (kanan bawah)
 - Ada Earth dungeon di antara Cornelia Castle dan Garland (Boss 1) Castle
-- Ada Mystic Key Door di Cornelia Castle, dan cavern si Garland (Boss 1) Castle
-- Ada Mystic Key Door di Elfheim Castle, dan Western Keep
-- Bisa bicara dengan Dancer di Cornelia kalau tidak tahu mau ngapain
+- Ada Lifespring Grotto (Water dungeon?) setelah kota dwarf ledakin jalan
+- ~~Ada Mystic Key Door di Cornelia Castle, dan cavern si Garland (Boss 1) Castle~~
+- ~~Ada Mystic Key Door di Elfheim Castle, dan Western Keep~~
+- ~~Ada Mystic Key Door di Marsh Cave (Lantai 3, baris bawah)~~
+- ~~Bisa bicara dengan Dancer di Cornelia kalau tidak tahu mau ngapain~~
 - Princess memberi Lute, Key Item
-- Ada Elf yang bilang weapon sama gear Mythril itu kuat banget. Mungkin senjata OP late game?
+- ~~Dwarf Blacksmith bisa bikin pedang dari Adamantite~~
+- Di sage circle kota danau (kanan bawah), ada lingkaran sage, kata dia suruh balik lagi ke sini kalau 4 kristal sudah direstore
+- Lore wise, Luferian ngirim 5 hero buat berpetualang, dan orang bernama Cid membuat flying ship
 
 ![image](/img/border.png "Border")
 
